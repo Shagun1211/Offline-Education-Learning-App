@@ -1,0 +1,246 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Anita Sharma",
+      "class": "10A"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Patil",
+      "class": "10A"
+    },
+    {
+      "id": 3,
+      "name": "Neha Deshpande",
+      "class": "10B"
+    },
+    {
+      "id": 4,
+      "name": "Sanjay Kulkarni",
+      "class": "10B"
+    },
+    {
+      "id": 5,
+      "name": "Isha More",
+      "class": "10A"
+    }
+  ],
+  "attendance": [
+    {
+      "date": "2025-09-16",
+      "attendance": []
+    },
+    {
+      "date": "2025-09-16",
+      "attendance": [
+        {
+          "id": 1,
+          "present": true
+        },
+        {
+          "id": 2,
+          "present": false
+        },
+        {
+          "id": 3,
+          "present": true
+        },
+        {
+          "id": 4,
+          "present": false
+        },
+        {
+          "id": 5,
+          "present": true
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "attendance": [
+        {
+          "id": 1,
+          "present": true
+        },
+        {
+          "id": 2,
+          "present": false
+        },
+        {
+          "id": 3,
+          "present": true
+        },
+        {
+          "id": 4,
+          "present": false
+        },
+        {
+          "id": 5,
+          "present": false
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "attendance": [
+        {
+          "id": 1,
+          "present": false
+        },
+        {
+          "id": 2,
+          "present": true
+        },
+        {
+          "id": 3,
+          "present": true
+        },
+        {
+          "id": 4,
+          "present": false
+        },
+        {
+          "id": 5,
+          "present": true
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "attendance": [
+        {
+          "id": 1,
+          "present": false
+        },
+        {
+          "id": 2,
+          "present": true
+        },
+        {
+          "id": 3,
+          "present": false
+        },
+        {
+          "id": 4,
+          "present": true
+        },
+        {
+          "id": 5,
+          "present": true
+        }
+      ]
+    },
+    {
+      "date": "2025-09-17",
+      "attendance": [
+        {
+          "id": 1,
+          "present": true
+        },
+        {
+          "id": 2,
+          "present": true
+        },
+        {
+          "id": 3,
+          "present": false
+        },
+        {
+          "id": 4,
+          "present": true
+        },
+        {
+          "id": 5,
+          "present": false
+        }
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1757953414335,
+      "title": "test",
+      "description": "quiz",
+      "dueDate": "2025-12-12"
+    },
+    {
+      "id": 1757953488716,
+      "title": "TA",
+      "description": "OPEN BOOK TEST",
+      "dueDate": "2025-12-12"
+    },
+    {
+      "id": 1758000408249,
+      "title": "CLASS TEST",
+      "description": "QUANTUM COMPUTING",
+      "dueDate": "2025-12-12"
+    },
+    {
+      "id": 1758001467904,
+      "title": "QUIZ",
+      "description": "DBMS",
+      "dueDate": "2025-12-12"
+    },
+    {
+      "id": 1758003861633,
+      "title": "TA",
+      "description": "DAA",
+      "dueDate": "2025-12-12"
+    },
+    {
+      "id": 1758004052101,
+      "title": "TA",
+      "description": "DAA",
+      "dueDate": "2025-10-12"
+    },
+    {
+      "id": 1758127591986,
+      "title": "TA",
+      "description": "ON QUANTUM COMPUTING",
+      "dueDate": "2025-12-12"
+    }
+  ],
+  "performance": [
+    {
+      "studentId": 1,
+      "marks": [
+        50,
+        60,
+        55
+      ]
+    },
+    {
+      "studentId": 2,
+      "marks": [
+        30,
+        35,
+        40
+      ]
+    },
+    {
+      "studentId": 3,
+      "marks": [
+        70,
+        75,
+        65
+      ]
+    },
+    {
+      "studentId": 4,
+      "marks": [
+        45,
+        50,
+        40
+      ]
+    },
+    {
+      "studentId": 5,
+      "marks": [
+        80,
+        85,
+        78
+      ]
+    }
+  ]
+}
